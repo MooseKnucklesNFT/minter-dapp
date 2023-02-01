@@ -7,7 +7,7 @@
 :root {
   --font-primary: "Kanit", sans-serif;
   --font-secondary: "Fira+Sans", serif;
-  --font-code: "Roboto", monospace;
+  --font-code: "Fira+Sans", monospace;
   --bg-color: #202020;
   --bg-color-transparent: #00163f80;
   --font-color: #ffffff;
